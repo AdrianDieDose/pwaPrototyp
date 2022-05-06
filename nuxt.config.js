@@ -48,7 +48,13 @@ export default {
 
   // PWA module configuration: https://go.nuxtjs.dev/pwa
   pwa: {
+    meta: {
+      title: 'Sit&Watch Prototype',
+      author: 'Adrian',
+    },
     manifest: {
+      name: 'Sit&Watch Prototype',
+      short_name: 'Sit&Watch',
       lang: 'en',
     },
   },
