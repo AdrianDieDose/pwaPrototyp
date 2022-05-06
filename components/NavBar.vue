@@ -21,7 +21,9 @@ export default {
 <style scoped>
 nav {
   margin: 0px 10%;
+  margin-bottom: 5%;
   padding: 0;
+  border-bottom: 2px solid black;
 }
 #logo {
   padding: 20px 0;

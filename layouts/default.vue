@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <NavBar />
-    <LeafMap />
+    <Nuxt />
   </div>
 </template>
 

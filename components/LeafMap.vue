@@ -73,7 +73,6 @@ export default {
 </script>
 <style scoped>
 .map {
-  margin-top: 5%;
-  margin: 9%;
+  margin: 0% 5%;
 }
 </style>
