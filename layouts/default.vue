@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>Prototyp</h1>
     <NavBar />
     <LeafMap />
   </div>
