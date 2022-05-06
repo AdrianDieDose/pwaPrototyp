@@ -57,6 +57,9 @@ export default {
       short_name: 'Sit&Watch',
       lang: 'en',
     },
+    workbox: {
+      offlinePage: '/offline.vue',
+    },
   },
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
